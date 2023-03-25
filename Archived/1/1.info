@@ -1,0 +1,72 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2017 SP2.0. Build: 3731
+                Computer name:   SHANOSWAGPAD
+                User name:   Liam
+                Processors:   Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz
+                Memory:   8084 MB / 134217727 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.15063)
+                CAD version:   SOLIDWORKS 2017 SP2.0
+                CPU speed:   2601 (2000) MHz
+
+    General Info
+                Model:   Hull 9.2 rounder bow.SLDPRT
+                Project name:   1.5 kts
+                Project path:   C:\Users\Liam\Documents\GrabCAD\Sailbot\1
+                Units system:   SI (m-kg-s)
+                Analysis type:   External (exclude internal spaces)
+                Exclude cavities without flow conditions :   On
+                Coordinate system:   Global coordinate system
+                Reference axis:   Z
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                Cavitation:   Off
+                High Mach number flow:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -2.133 m
+                X max:   2.202 m
+                Y min:   -2.285 m
+                Y max:   1.827 m
+                Z min:   -3.026 m
+                Z max:   3.821 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   33
+                Number of cells in Y:   32
+                Number of cells in Z:   52
+
+        Number Of Cells
+                Cells:   55273
+                Fluid cells:   55273
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   2
+
+    Goals
+                
+                Name   	Unit   	Value   	Progress   	Criteria   	Delta   	Use in convergence 
+
+    General Info
+                Iterations:   77
+                CPU time:   134 s
+
+        Log
+                Mesh generation started	0:   00:09:26 , Sep 17
+                Mesh generation normally finished	0:   00:09:30 , Sep 17
+                Preparing data for calculation	0:   00:09:30 , Sep 17
+                Calculation started	0:   00:09:33 , Sep 17
+                Calculation has converged since the following criteria are satisfied:	76:   00:11:45 , Sep 17
+                    Goals are converged	76:   
+                Calculation finished	77:   00:11:48 , Sep 17

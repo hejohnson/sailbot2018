@@ -1,0 +1,15 @@
+12.5 x 19mm / 0.49"x 0.75" (size of the on off switch) // DONE
+
+List of things to change: 
+
+1/4 in carbon pin holes (2 holes somewhere on the back)
+
+led holes completely through  // DONE
+
+resize the servo, on off switch, and battery box // DONE
+
+8-32 holes // DONE
+
+split it in half (max length of 10.75 inch) // DONE
+
+1/4 in carbon pin holes (sideways) // FUCK GAHHHHH

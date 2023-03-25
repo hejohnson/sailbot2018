@@ -1,0 +1,131 @@
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 1 min 30 sec
+CB Mesh volume mesh:  0 hr 2 min 9 sec
+CB Mesh arrange mesh data:  0 hr 3 min 51 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 0 sec
+Copying bodies to mesh:  0 hr 0 min 1 sec
+CB Mesh surface mesh:  0 hr 0 min 16 sec
+CB Mesh volume mesh:  0 hr 0 min 9 sec
+CB Mesh arrange mesh data:  0 hr 0 min 11 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 0 sec
+Copying bodies to mesh:  0 hr 0 min 1 sec
+CB Mesh surface mesh:  0 hr 0 min 17 sec
+CB Mesh volume mesh:  0 hr 0 min 10 sec
+CB Mesh arrange mesh data:  0 hr 0 min 12 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 0 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 20 sec
+CB Mesh volume mesh:  0 hr 0 min 12 sec
+CB Mesh arrange mesh data:  0 hr 0 min 13 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 0 sec
+Copying bodies to mesh:  0 hr 0 min 1 sec
+CB Mesh surface mesh:  0 hr 0 min 26 sec
+CB Mesh volume mesh:  0 hr 0 min 17 sec
+CB Mesh arrange mesh data:  0 hr 0 min 19 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+INPUT FOR CADSURF : Get Number of curves and faces of 23 bodies 0 hr 0 min 0 sec
+INPUT FOR CADSURF : export Geometry of 23 bodies to Distene 0 hr 0 min 0 sec
+CREATE SURFACE MESH : Time required for surfcae mesh by MG_CADSURF for this model having 23 bodies 0 hr 0 min 16 sec
+INPUT FOR CADSURF : Get Number of curves and faces of 23 bodies 0 hr 0 min 17 sec
+INPUT FOR CADSURF : export Geometry of 23 bodies to Distene 0 hr 0 min 3 sec
+CREATE SURFACE MESH : Time required for surfcae mesh by MG_CADSURF for this model having 23 bodies 0 hr 3 min 3 sec
+CB Mesh surface mesh:  0 hr 3 min 23 sec
+CB Mesh volume mesh:  0 hr 0 min 0 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+INPUT FOR CADSURF : Get Number of curves and faces of 23 bodies 0 hr 0 min 0 sec
+INPUT FOR CADSURF : export Geometry of 23 bodies to Distene 0 hr 0 min 0 sec
+CREATE SURFACE MESH : Time required for surfcae mesh by MG_CADSURF for this model having 23 bodies 0 hr 0 min 12 sec
+INPUT FOR CADSURF : Get Number of curves and faces of 23 bodies 0 hr 0 min 13 sec
+INPUT FOR CADSURF : export Geometry of 23 bodies to Distene 0 hr 0 min 2 sec
+CREATE SURFACE MESH : Time required for surfcae mesh by MG_CADSURF for this model having 23 bodies 0 hr 2 min 43 sec
+CB Mesh surface mesh:  0 hr 2 min 58 sec
+CB Mesh volume mesh:  0 hr 0 min 0 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 0 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 38 sec
+CB Mesh volume mesh:  0 hr 0 min 40 sec
+CB Mesh arrange mesh data:  0 hr 0 min 43 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 39 sec
+CB Mesh volume mesh:  0 hr 0 min 39 sec
+CB Mesh arrange mesh data:  0 hr 0 min 44 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 39 sec
+CB Mesh volume mesh:  0 hr 0 min 40 sec
+CB Mesh arrange mesh data:  0 hr 0 min 43 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 39 sec
+CB Mesh volume mesh:  0 hr 0 min 39 sec
+CB Mesh arrange mesh data:  0 hr 0 min 34 sec
+CB Mesh surface mesh:  0 hr 0 min 4 sec
+CB Mesh volume mesh:  0 hr 0 min 5 sec
+CB Mesh arrange mesh data:  0 hr 0 min 2 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 15 sec
+CB Mesh volume mesh:  0 hr 0 min 9 sec
+CB Mesh arrange mesh data:  0 hr 0 min 10 sec
+CB Mesh surface mesh:  0 hr 0 min 1 sec
+CB Mesh volume mesh:  0 hr 0 min 1 sec
+CB Mesh arrange mesh data:  0 hr 0 min 1 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 11 sec
+CB Mesh volume mesh:  0 hr 0 min 5 sec
+CB Mesh arrange mesh data:  0 hr 0 min 8 sec
+CB Mesh surface mesh:  0 hr 0 min 1 sec
+CB Mesh volume mesh:  0 hr 0 min 1 sec
+CB Mesh arrange mesh data:  0 hr 0 min 0 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 1 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 11 sec
+CB Mesh volume mesh:  0 hr 0 min 3 sec
+CB Mesh arrange mesh data:  0 hr 0 min 6 sec
+CB Mesh surface mesh:  0 hr 0 min 2 sec
+CB Mesh volume mesh:  0 hr 0 min 1 sec
+CB Mesh arrange mesh data:  0 hr 0 min 0 sec
+Beam mesh:  0 hr 0 min 0 sec
+Preparing to transfer data:  0 hr 0 min 0 sec
+Processing material properties:  0 hr 0 min 0 sec
+Processing element groups:  0 hr 0 min 0 sec
+Processing drop test gap nodes:  0 hr 0 min 0 sec
+Updating thickness for shell regions:  0 hr 0 min 0 sec
+Processing rconst for elements:  0 hr 0 min 0 sec
+Processing egroups:  0 hr 0 min 0 sec
+Transferring loads and boundary conditions:  0 hr 0 min 1 sec
+Generating body pairs to check contact:  0 hr 0 min 0 sec
+Generating contacts:  0 hr 0 min 1 sec
+Number of Contacts: 15
+Transfer SL1 data:  0 hr 0 min 0 sec
+Generate more accurate contact data:  0 hr 0 min 1 sec
+Number of contact data: 11469
+Transfer beam/joint contact data:  0 hr 0 min 0 sec
+Transferring other special loads:  0 hr 0 min 0 sec
+Transferring bearing loads:  0 hr 0 min 0 sec
+Transferring mass elements:  0 hr 0 min 0 sec
+Transferring point loads:  0 hr 0 min 0 sec
+Transferring distributed beam loads:  0 hr 0 min 0 sec
+Transferring rigid bodies:  0 hr 0 min 0 sec
+Transferring component no penetration:  0 hr 0 min 0 sec
+Writing Data:  0 hr 0 min 0 sec
+Transferring analysis options:  0 hr 0 min 0 sec
+Total midsurf mapping:  0 hr 0 min 0 sec

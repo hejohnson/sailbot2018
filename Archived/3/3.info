@@ -1,0 +1,73 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2017 SP2.0. Build: 3731
+                Computer name:   SHANOSWAGPAD
+                User name:   Liam
+                Processors:   Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz
+                Memory:   8084 MB / 134217727 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.15063)
+                CAD version:   SOLIDWORKS 2017 SP2.0
+                CPU speed:   2601 (2000) MHz
+
+    General Info
+                Model:   Hull 9.2 rounder bow.SLDPRT
+                Project name:   True flow
+                Project comment:   20deg of heel and 5deg angle of attack
+                Project path:   C:\Users\Liam\Documents\GrabCAD\Sailbot\3
+                Units system:   SI (m-kg-s)
+                Analysis type:   External (exclude internal spaces)
+                Exclude cavities without flow conditions :   On
+                Coordinate system:   Global coordinate system
+                Reference axis:   Z
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                Cavitation:   Off
+                High Mach number flow:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -1.094 m
+                X max:   1.122 m
+                Y min:   -0.992 m
+                Y max:   0.804 m
+                Z min:   -0.799 m
+                Z max:   3.306 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   37
+                Number of cells in Y:   31
+                Number of cells in Z:   71
+
+        Number Of Cells
+                Cells:   80802
+                Fluid cells:   80802
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   1
+
+    Goals
+                
+                Name   	Unit   	Value   	Progress   	Criteria   	Delta   	Use in convergence 
+
+    General Info
+                Iterations:   114
+                CPU time:   339 s
+
+        Log
+                Mesh generation started	0:   00:15:23 , Sep 17
+                Mesh generation normally finished	0:   00:15:28 , Sep 17
+                Preparing data for calculation	0:   00:15:28 , Sep 17
+                Calculation started	0:   00:15:32 , Sep 17
+                Calculation has converged since the following criteria are satisfied:	113:   00:21:09 , Sep 17
+                    Goals are converged	113:   
+                Calculation finished	114:   00:21:12 , Sep 17
